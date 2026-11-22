@@ -1,0 +1,11 @@
+{
+  "id": "wled",
+  "name": "WLED",
+  "version": "1.0.0",
+  "author": "Knirpslarsi",
+  "description": "Steuert WLED-Geräte im Netzwerk wie jedes andere Gerät: im Layout platzieren, dann laufen Effekte, Musik, Shows und Spiel-Animationen darauf. Dazu ein Effekt für LED-Streifen.",
+  "minAppVersion": "1.7.0",
+  "builtin": "wled",
+  "effects": ["effects/streifen_komet.js"],
+  "homepage": "https://github.com/Knirpslarsi/LED-Studio-WLED"
+}
